@@ -2,6 +2,9 @@
 
 # <img src="https://avatars3.githubusercontent.com/u/14809007?s=280&v=4" width="50" /> VooduX - Mobile React Demo
 
+A drink catalog mobile application using TypeScript, React, Voodux and Ionic
+
+- TypeScript
 - Functional components
 - Context API
 - Ionic Framework
@@ -17,7 +20,7 @@ It uses [Ionic Framework](https://ionicframework.com/) as UI framework.
 
 [Check the online demo](https://voodux-react-mobile-ionic-demo.vercel.app/)
 
-<img src="https://i.imgur.com/b29Lsgj.png" width="600" />
+<img src="https://i.imgur.com/rzzFop6.jpg" width="600" />
 
 ### voodux Docs
 
