@@ -20,7 +20,7 @@ It uses [Ionic Framework](https://ionicframework.com/) as UI framework.
 
 [Check the online demo](https://voodux-react-mobile-ionic-demo.vercel.app/)
 
-<img src="https://i.imgur.com/rzzFop6.jpg" width="600" />
+<img src="https://i.imgur.com/rzzFop6.jpg" height="600" />
 
 ### voodux Docs
 
