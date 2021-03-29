@@ -1,6 +1,6 @@
 /* global */
 
-const getListOfDrinks = async () => {
+const getListOfDrinks = () => {
   return new Promise((resolve, reject) => {
     fetch('https://www.thecocktaildb.com/api/json/v1/1/filter.php?a=Alcoholic')
       .then(response => response.json())
@@ -9,7 +9,7 @@ const getListOfDrinks = async () => {
 }
 
 
-const getDrink = async (id) => {
+const getDrink = (id) => {
   return new Promise((resolve, reject) => {
     fetch(`https://www.thecocktaildb.com/api/json/v1/1/lookup.php?i=${id}`)
       .then(response => response.json())

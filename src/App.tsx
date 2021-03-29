@@ -40,7 +40,6 @@ const App: React.FC = () => {
   return (
     <IonApp>
       <IonReactRouter>
-        
         <IonTabs>
           <IonRouterOutlet>
             <Route exact path="/drinks">
